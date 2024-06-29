@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-// SplashScreen.js
-
 import React, { useEffect } from 'react';
 import { View, Image, StyleSheet } from 'react-native';
 
@@ -66,4 +63,4 @@ const styles = StyleSheet.create({
 });
 
 export default SplashScreen;
->>>>>>> 2db13684e42751763683e6fe44018f39a4a44938
+
